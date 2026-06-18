@@ -1,3 +1,11 @@
+# tmp-first
+build/*
+play/*
+*.env
+*.log
+*.swp
+*.run
+
 # Prerequisites
 *.d
 
